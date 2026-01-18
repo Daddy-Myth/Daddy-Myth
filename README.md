@@ -1,15 +1,8 @@
 <h1 align="center">Archit Yadav</h1>
 <h3 align="center">Logic Ends Here. . .</h3>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Daddy-Myth&label=Profile%20views&color=0e75b6&style=flat" alt="Daddy-Myth" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Daddy-Myth&theme=darkhub" alt="GitHub Trophies" />
-  </a>
 </p>
 
 ---
